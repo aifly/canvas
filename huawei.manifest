@@ -1,0 +1,8 @@
+CACHE MANIFEST
+     #AddType text/cache-manifest .appcache
+     #version 0.0.6
+     CACHE:
+	 images/bg1.jpg
+	 images/xi.jpg
+     NETWORK:
+         *
